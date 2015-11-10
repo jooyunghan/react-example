@@ -1,0 +1,9 @@
+body {
+  background: yellow;
+  font-size: large;
+  margin: 0px;
+}
+
+div#content {
+  width: 100%;
+}
